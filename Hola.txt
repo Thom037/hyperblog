@@ -1,7 +1,6 @@
 Hola, 
 
 Primer contenido
-Segundo contenido
 Tercer contenido
 
 Final del contenido, nuevo contenido a la ultima fila mas pepe
